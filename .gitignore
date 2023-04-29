@@ -1,0 +1,12 @@
+.lib/
+temp/
+*.temp
+pass.*
+clave.txt
+*.exe
+/videos
+/imagenes
+/cheet_python
+/venv
+/env
+__pycache__
